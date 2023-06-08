@@ -1,2 +1,2 @@
 # SLI
-android_project
+android_project in school with hyunmin jinha
